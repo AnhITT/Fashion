@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_chartz.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\chartz.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_order_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_baseline_email.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_baseline_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_ok.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-ldpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-ldpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_order_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_hot_product.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\hot_product.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_user_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_user_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_no_image1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\no_image1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_email.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_sort_ic.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\sort_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_baseline_phone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_baseline_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ico_status.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ico_status.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_logo_notext.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\logo_notext.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_changepass.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\changepass.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_delete_4ever.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_delete_4ever.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xhdpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "com.example.fashion.app-merged_res-34:/drawable_ic_ok.xml.flat",
+        "source": "com.example.fashion.app-main-36:/drawable/ic_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_spinner.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_slide_right.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_searchround.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\searchround.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bonus_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bonus_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_chart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ico_logout.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ico_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-hdpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-hdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_notification.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_store_48x48.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\store_48x48.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxxhdpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxxhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_change_pw_32.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_change_pw_32.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\menu_cart_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\menu\\cart_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_logo_notext.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\logo_notext.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_sort_price_32px.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\sort_price_32px.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_bia1.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\bia1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_logout_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ico_version.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ico_version.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_confirm_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_confirm_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_info_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_info_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xhdpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxhdpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_customer_type.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_customer_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_border_design.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\border_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_kesach.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\kesach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxhdpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_textview_rounded.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_textview_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ico_pass.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ico_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_user_.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_user_.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_round_corners.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_btn_bg_design.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\btn_bg_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_account_edit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_account_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_stay.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\stay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_decrease.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_decrease.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_baseline_fullname.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_baseline_fullname.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-mdpi_ic_login_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-mdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_add_img.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_add_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_heart2.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_heart2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_signin.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_settingitem.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_settingitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_baseline_password.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_baseline_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_layout_dialog_cancel.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\layout_dialog_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_datepicker_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_datepicker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_calendar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_btn_bg_secondary_design.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\btn_bg_secondary_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-hdpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-hdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ico_contract.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ico_contract.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_product.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_order.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_checkout_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_checkout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_delete_btn_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_delete_btn_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_no_image.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_table_1.jpg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\table_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_support_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_support_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_processbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\processbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_layout_dialog_confirm.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\layout_dialog_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\anim_slide_left.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_logout_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_logout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_border_top.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\border_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxxhdpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxxhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_side_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_side_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_picture_as_pdf_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_picture_as_pdf_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_filter.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_cart_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_analytics.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\menu_recovery_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\menu\\recovery_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_icon_order.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\icon_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_setting_form.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_setting_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-mdpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-mdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_back_img.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_back_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-anydpi-v24_ic_register_hero.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-anydpi-v24\\ic_register_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-anydpi-v24_ic_login_hero.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-anydpi-v24\\ic_login_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_bg_signup.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\bg_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_sort.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\sort.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_button_background_blue.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\button_background_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_roundbutton.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\roundbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_user.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_ic_increase.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\ic_increase.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_activity_change_info.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\activity_change_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_heart1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_heart1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_error.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_fluent_signature_regular_icon.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_fluent_signature_regular_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-v24_ic_order_history_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable-v24\\ic_order_history_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_tee.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\tee.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable_baseline_error_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\drawable\\baseline_error_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_fragment_view_account_info.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\fragment_view_account_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\menu_pdf_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\menu\\pdf_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\drawable-ldpi_ic_register_hero.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-pngs-29:\\drawable-ldpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\layout_line_producthome.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\layout\\line_producthome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\xml_custom_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\xml\\custom_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.3.3\\com.example.fashion.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]

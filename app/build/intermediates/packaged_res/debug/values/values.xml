@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_primary">#3669C9</color>
+    <color name="colorAccent">#11CFC5</color>
+    <color name="colorGreen">#3CEF37</color>
+    <color name="colorGrey">#575555</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#f1b814</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="darkGray">#27282c</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="deep">#2F2B64</color>
+    <color name="gray">#393d40</color>
+    <color name="gray_light">#FAFAFA</color>
+    <color name="input_form_background">#eee</color>
+    <color name="input_form_boxstroke_color">#999</color>
+    <color name="light_blue">#bde0fe</color>
+    <color name="mediumGray">#262523</color>
+    <color name="primaryTextColor">#1877f2</color>
+    <color name="primary_color">#a86a24</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF5353</color>
+    <color name="purple_700">#FF5353</color>
+    <color name="red">#ff0000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="themeColor">#1877f2</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="headerTextSize">25sp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+    <dimen name="newsMoreTextSize">15sp</dimen>
+    <string name="app_name">Fashion</string>
+    <string name="default_web_client_id" translatable="false">950218384184-6hqpl5fgvbcb9kcl7321hk661ct4jv65.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">950218384184</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVaAGFOGoejBHnrQIQwg7clB7aNJZtPug</string>
+    <string name="google_app_id" translatable="false">1:950218384184:android:183869ab74920a0593d7cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVaAGFOGoejBHnrQIQwg7clB7aNJZtPug</string>
+    <string name="google_storage_bucket" translatable="false">fashiondatabase-c8009.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mật khẩu</string>
+    <string name="login_repassword_hint">Nhập lại mật khẩu</string>
+    <string name="project_id" translatable="false">fashiondatabase-c8009</string>
+    <string name="recoverypassword">Khôi phục mật khẩu</string>
+    <string name="register_address">Địa chỉ</string>
+    <string name="register_birthday">Ngày sinh</string>
+    <string name="register_email">Email</string>
+    <string name="register_firstname">Tên</string>
+    <string name="register_lastname">Họ</string>
+    <string name="register_password">Mật khẩu</string>
+    <string name="register_phonenumber">Số điện thoại</string>
+    <string name="register_repassword">Nhập lại mật khẩu</string>
+    <string name="tvDSSP">Sản phẩm mới 2023</string>
+    <string name="tv_email_recovery">Nhập email tài khoản của bạn</string>
+    <string name="tv_sdt_recovery">Nhập số điện thoại của bạn</string>
+    <string name="tv_ttgh">Mời nhập thông tin giao hàng</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="customTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/input_form_boxstroke_color</item>
+        <item name="background">@color/input_form_background</item>
+    </style>
+    <style name="loginButton" parent="viewParent">
+        <item name="android:background">@drawable/bg_signin</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="modifiedEditText" parent="parent">
+        <item name="android:textSize">@dimen/newsMoreTextSize</item>
+        <item name="android:backgroundTint">#ffffff</item>
+    </style>
+    <style name="parent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="spinnerHintText" parent="parent">
+        <item name="android:textSize">@dimen/newsMoreTextSize</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="style_linear_mcv">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="viewParent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="viewParent.headerText">
+        <item name="android:textColor">@color/contentTextColor</item>
+        <item name="android:textSize">@dimen/headerTextSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="viewParent.headerText.NoMode">
+        <item name="android:textColor">@color/darkTextColor</item>
+    </style>
+</resources>
